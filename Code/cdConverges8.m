@@ -1,5 +1,5 @@
 clc; clear;
-csvFiles = dir(fullfile('CDConferge','*.csv'));
+csvFiles = dir(fullfile('CDConverge','*.csv'));
 cells1 = [26718,45540,86027,166345];
 cells2 = [166345,328144,665275,1308296];
 cells3 = [313155,583369,1156622,1510492];
