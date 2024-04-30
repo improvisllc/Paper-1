@@ -3,3 +3,26 @@ In the paper, the problem of statement the error margins on rockets' aerodynamic
 
 ## Acceptable Error Margin of Drag Coefficient Estimation Based on Simulations of 8 Rockets
 ![Acceptable Errors in %](https://github.com/improvisllc/Paper-1/blob/main/Figures/Fig%E2%80%A41.svg)
+
+## Paper
+If you use this code in an academic context, please cite the following publication: [Statement of requirements on the accuracy of rocket CFD analysis using exterior ballistics for example rocket models](https://journals.sagepub.com/doi/10.1177/15485129241247042)
+
+```
+@article{doi:10.1177/15485129241247042,
+author = {Aram Baghiyan and Hovhannes Sargsyan and Areg Grigoryan},
+title ={Statement of requirements on the accuracy of rocket CFD analysis using exterior ballistics for example rocket models},
+
+journal = {The Journal of Defense Modeling and Simulation},
+volume = {0},
+number = {0},
+pages = {15485129241247042},
+year = {0},
+doi = {10.1177/15485129241247042},
+
+URL = {    
+        https://doi.org/10.1177/15485129241247042
+},
+eprint = {     
+        https://doi.org/10.1177/15485129241247042
+}
+```
